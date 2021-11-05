@@ -1,0 +1,4 @@
+App\Entity\User:
+  admin:
+    email: ivo@dev.de
+    password: '\$2y\$12\$uBUCQ6JE.kbsUEx0x74CweZSGBPYIASk6RYCXlRk/jSL1wkGQZnjO'

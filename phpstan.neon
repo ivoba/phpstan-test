@@ -1,0 +1,10 @@
+parameters:
+	level: 5
+	paths:
+		- src
+	checkMissingIterableValueType: false
+	doctrine:
+	    repositoryClass: Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository
+includes:
+	- vendor/phpstan/phpstan-doctrine/extension.neon
+	- vendor/phpstan/phpstan-doctrine/rules.neon

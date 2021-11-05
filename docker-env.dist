@@ -1,0 +1,6 @@
+BLACKFIRE_SERVER_ID=your server id
+BLACKFIRE_SERVER_TOKEN=your server token
+BLACKFIRE_CLIENT_ID=your client id
+BLACKFIRE_CLIENT_TOKEN=your client token
+
+PHP_IDE_CONFIG="serverName=your-server"

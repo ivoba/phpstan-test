@@ -1,0 +1,5 @@
+parameters:
+  audio_session.path: '%kernel.project_dir%/tests/Fixtures/'
+services:
+  _defaults:
+    public: true

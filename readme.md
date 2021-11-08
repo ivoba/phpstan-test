@@ -7,4 +7,5 @@ run:
 
 in container run:
 
+    composer install
     vendor/bin/phpstan

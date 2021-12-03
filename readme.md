@@ -1,5 +1,7 @@
 # phpstan-test
-https://stackoverflow.com/questions/69851516/phpstan-and-doctrine-id-is-never-written-only-read?noredirect=1#comment123480939_69851516
+For: https://stackoverflow.com/questions/69851516/phpstan-and-doctrine-id-is-never-written-only-read?noredirect=1#comment123480939_69851516
+
+For: https://github.com/symfony/symfony/issues/44426
 
 run:
 
@@ -8,4 +10,4 @@ run:
 in container run:
 
     composer install
-    vendor/bin/phpstan
+    vendor/bin/simple-phpunit
